@@ -47,7 +47,7 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-
+**/application-local.properties
 .classpath
 .factorypath
 .project
